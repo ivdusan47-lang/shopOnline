@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "Dusan",
+    "lastname" : "Ivanisevic",
+    "email" : "duki@gmail.com",
+    "username" : "duki",
+    "password" : "duki20" 
+  },
+  {
+    "name" : "Boris",
+    "lastname" : "Peric",
+    "email" : "boris@gmail.com",
+    "username" : "risbo",
+    "password" : "Risbo30" 
+  },
+  {
+    "name" : "Nikola",
+    "lastname" : "Petrovic",
+    "email" : "nidza@gmail.com",
+    "username" : "nidza",
+    "password" : "Nnidza10" 
+  },
+  {
+    "name" : "Srdjan",
+    "lastname" : "Ivanisevic",
+    "email" : "srki@gmail.com",
+    "username" : "srlesrki",
+    "password" : "Srki40" 
+  },
+  {
+    "name" : "Boro",
+    "lastname" : "Ivanisevic",
+    "email" : "ivanis@gmail.com",
+    "username" : "boki",
+    "password" : "Ivanis1" 
+  }
+]
